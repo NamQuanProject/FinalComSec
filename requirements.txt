@@ -1,0 +1,13 @@
+torch>=2.2
+torchvision>=0.17
+scikit-learn>=1.3
+opencv-python-headless>=4.8
+numpy>=1.24
+pandas>=2.0
+Pillow>=10.0
+requests>=2.31
+tqdm>=4.66
+scipy>=1.11
+joblib>=1.3
+xgboost>=2.0  # optional, only needed for --classical-algorithm xgboost
+

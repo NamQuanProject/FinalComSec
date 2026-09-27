@@ -1,0 +1,2 @@
+approach,accuracy,precision_real,recall_real,f1_real,roc_auc,n_test
+fusion,0.95,0.8888888888888888,1.0,0.9411764705882353,0.96875,20
